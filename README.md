@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-\### :zap: Actividad reciente
+### :zap: Actividad reciente
 
 \<!--START\_SECTION:activity-->
 
