@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ### :zap: Actividad reciente
 
-\<!--START\_SECTION:activity-->
+<!--START\_SECTION:activity-->
 
-\<!--END\_SECTION:activity-->
+<!--END\_SECTION:activity-->
