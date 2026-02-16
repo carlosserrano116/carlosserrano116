@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 ### :zap: Actividad reciente
 
-<!--RECENT\_ACTIVITY:start-->
-
+<!--RECENT\_ACTIVITY:start--> Nose
 <!--RECENT\_ACTIVITY:last\_update-->
