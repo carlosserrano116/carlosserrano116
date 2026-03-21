@@ -16,8 +16,4 @@ Here are some ideas to get you started:
 -->
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/carlosserrano116/TercerRepoRelease/releases/tag/v0.1.0) in [carlosserrano116/TercerRepoRelease](https://github.com/carlosserrano116/TercerRepoRelease)<br>
-2. ⬆️ Pushed undefined commit(s) to [carlosserrano116/TercerRepoRelease](https://github.com/carlosserrano116/TercerRepoRelease)<br>
-3. ⬆️ Pushed undefined commit(s) to [carlosserrano116/Mi3erRepoAmin](https://github.com/carlosserrano116/Mi3erRepoAmin)<br>
-4. 💪 Opened PR [#1](undefined) in [carlosserrano116/Mi3erRepoAmin](https://github.com/carlosserrano116/Mi3erRepoAmin)<br>
 <!--RECENT_ACTIVITY:end-->
